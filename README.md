@@ -4,7 +4,7 @@ Building upon recent advances in speech recognition and artificial intelligence,
 
 LiveScribe is Vonex’s way of easing communication across barriers traditionally presented by language and disability. 
 
-Eg:
+---
 
 “**Linda**”: Linda is French. Working primarily with English staff, she does not have a full grasp of the English language. To enable her to engage in company-wide meetings, she joins calls using LiveScribe. Now she has English speech translated to French in real time during the active call.
 
@@ -14,9 +14,11 @@ Eg:
 
 “**Michael**”: Michael works at a law firm. To ensure that calls with his clients are recorded and transcribed, he uses LiveScribe to have a machine automatically transcribe and record private conversations. The recording of the conversation can later be sent with the transcription to Michael’s customers as a value added service.
 
+---
+
 Currently, we support two speech to text backends for the LiveScribe platform:
-Google Cloud Speech-to-Text (Note, paid after the first hour)
-Vonex’s version of Kaldi GStreamer Server
+* [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text/) (Note, paid after the first hour)
+* [Vonex’s version of Kaldi GStreamer Server](https://github.com/vonex-labs/kaldi-gstreamer-server)
 
 Once transcribed, LiveScribe allows for language translation through a number of backends.
 
