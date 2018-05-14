@@ -25,13 +25,13 @@ Combining several Deep Neural Networks (DNN), Vonex’s GStreamer Server is curr
 We are currently prioritising English language support - noting our customer base - whilst compiling data sets for a range of additional languages. We have committed to releasing this data under a permissive open source license to help promote research and development within this space. We believe Vonex’s international text and speech models will prove valuable to researchers in the future.
 
 
-#Currently supported languages
--English 
--Spanish
+# Currently supported languages
+- English 
+- Spanish
 
 (Updated 10/05/2018)
 
-#For contributors
+# For contributors
 
 1. Create a personal fork of the main LiveScribe repository in GitHub.
 2. Make your changes in a named branch different from master, e.g. you create a branch my-awesome-feature.
