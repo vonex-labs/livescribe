@@ -1,4 +1,4 @@
-# livescribe
+# LiveScribe
 
 Building upon recent advances in speech recognition and artificial intelligence, Vonex Labs is thrilled to present LiveScribe - a live call transcription, translation, and speech to text engine.
 
